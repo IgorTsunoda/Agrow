@@ -41,18 +41,3 @@ Sua principal função é **dividir um conjunto de dados recebido (normalmente e
 O objetivo do **Agrow** é servir como base para soluções de **agricultura inteligente (Smart Farming)**, onde os dados são coletados automaticamente em campo e enviados para a nuvem, permitindo análises em tempo real sobre fatores que impactam a produtividade agrícola.
 
 ---
-
-## 🧩 Próximos Passos
-
-- Adicionar validações dos dados antes da inserção;
-- Criar logs detalhados em CloudWatch;
-- Integrar com uma camada de visualização em **Power BI** ou **Grafana**;
-- Implementar autenticação e controle de permissões via AWS IAM.
-
----
-
-## 👨‍💻 Autor
-
-**Igor Tsunoda**  
-Desenvolvedor e pesquisador em soluções de integração IoT + Cloud.  
-GitHub: [@IgorTsunoda](https://github.com/IgorTsunoda)
